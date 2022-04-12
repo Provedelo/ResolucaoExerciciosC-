@@ -1,0 +1,17 @@
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\bin\Debug\net5.0-windows\EstudoXML.exe
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\bin\Debug\net5.0-windows\EstudoXML.deps.json
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\bin\Debug\net5.0-windows\EstudoXML.runtimeconfig.json
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\bin\Debug\net5.0-windows\EstudoXML.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\bin\Debug\net5.0-windows\EstudoXML.dll
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\bin\Debug\net5.0-windows\ref\EstudoXML.dll
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\bin\Debug\net5.0-windows\EstudoXML.pdb
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.Agenda.resources
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.dll
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\ref\EstudoXML.dll
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.pdb
+\\vmware-host\Shared Folders\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Exercicios\TreinaWebPleno\CalculadoraDelegate\EstudoXML\obj\Debug\net5.0-windows\EstudoXML.genruntimeconfig.cache
