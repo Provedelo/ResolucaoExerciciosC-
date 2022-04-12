@@ -1,0 +1,9 @@
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\bin\Debug\Calculadora.exe.config
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\bin\Debug\Calculadora.exe
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\bin\Debug\Calculadora.pdb
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\obj\Debug\Calculadora.exe
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\obj\Debug\Calculadora.pdb
+Z:\Desenvolvimento\Projetos e Estudos\Estudo Treina Web\C#\Treinaweb\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
