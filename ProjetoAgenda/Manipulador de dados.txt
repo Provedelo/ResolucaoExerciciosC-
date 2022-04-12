@@ -1,0 +1,56 @@
+Usando o metodo "using", nao precisa checar se o arquivo existe pois ele cria o arquivo, eliminando um if da cadeia
+
+namespace AgendaContados
+{
+    public class ManipuladorDeArquivos
+    {
+        private static string EndereçoDoArquivo = AppDomain.CurrentDomain.BaseDirectory + "Contatos.txt";
+        public static List<Contato> LerArquivo()
+        {
+            return null;
+        }
+
+        public static void EscreverArquivos(List<Contato> contatosList)
+        {
+           if (File.Exists(EndereçoDoArquivo))
+            {
+                using (StreamWriter sw = new StreamWriter(@EndereçoDoArquivo, false)) //Using chama os metodos para liberar o recurso externo, de forma automatica, e automaticamente usa o .close() entre outros metodos
+                {
+                    foreach (Contato contato in contatosList)
+                    {
+                        string Linha = string.Format("{0};{1};{2}", contato.Nome, contato.Email, contato.NmroTelefone);
+                        sw.WriteLine(Linha); //cria a linha e adiciona as informações no arquivo de texto
+                    }
+                sw.Flush(); //libera os buffers, descarregando eles
+                //sw.Close(); //fecha o recurso e libera o ponteiro do arquivo, usando o Using n tem necessidade de deixar implementado pois ele ja faz isso e usa mais recursos tambem
+                }
+            }
+            else
+            {
+                throw new Exception("O arquivo não existe");
+            }
+
+virando:
+
+namespace AgendaContados
+{
+    public class ManipuladorDeArquivos
+    {
+        private static string EndereçoDoArquivo = AppDomain.CurrentDomain.BaseDirectory + "Contatos.txt";
+        public static List<Contato> LerArquivo()
+        {
+            return null;
+        }
+
+        public static void EscreverArquivos(List<Contato> contatosList)
+        {
+                using (StreamWriter sw = new StreamWriter(@EndereçoDoArquivo, false)) //Using chama os metodos para liberar o recurso externo, de forma automatica, e automaticamente usa o .close() entre outros metodos
+                {
+                    foreach (Contato contato in contatosList)
+                    {
+                        string Linha = string.Format("{0};{1};{2}", contato.Nome, contato.Email, contato.NmroTelefone);
+                        sw.WriteLine(Linha); //cria a linha e adiciona as informações no arquivo de texto
+                    }
+                sw.Flush(); //libera os buffers, descarregando eles
+                //sw.Close(); //fecha o recurso e libera o ponteiro do arquivo, usando o Using n tem necessidade de deixar implementado pois ele ja faz isso e usa mais recursos tambem
+                }
